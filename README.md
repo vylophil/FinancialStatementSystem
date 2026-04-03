@@ -2,8 +2,8 @@
 This is a system for our ACCOUNTING subject that manages an accounting cycle, this is a shortened verision of the cycle as per request upon by the prof, this was developed with my co-developers mr. Galapon and mr. Mesa
 
 ##Tools Used
--Java
--JDK (Java Development Kit)
+Java
+JDK (Java Development Kit)
 
 ##Features
 -External Data Storage: Saves all accounting records to a pipe-delimited text file (e.g., accounting_data.txt) for persistence.

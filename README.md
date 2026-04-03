@@ -1,5 +1,5 @@
 # FinancialStatementSystem
-This is a system for our ACCOUNTING subject that manages an accounting cycle, this is a shortened verision of the cycle as per request upon by the prof, this was developed with my co-developers mr. Galapon and mr. Mesa
+This is a system for our ACCOUNTING subject that manages an accounting cycle, this is a shortened verision of the cycle as per request upon by the prof, this was developed with my co-developers mr. Galapon and mr. Mesa.
 
 Tools Used
 -Java
